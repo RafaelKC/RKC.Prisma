@@ -15,5 +15,20 @@
   "bugs": {
     "url": "https://github.com/RafaelKC/RKC.Prisma/issues"
   },
-  "homepage": "https://github.com/RafaelKC/RKC.Prisma#readme"
+  "homepage": "https://github.com/RafaelKC/RKC.Prisma#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.14",
+    "@typescript-eslint/eslint-plugin": "^5.10.2",
+    "@typescript-eslint/parser": "^5.10.2",
+    "eslint": "^8.8.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "prisma": "^3.9.0",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "@prisma/client": "^3.9.0",
+    "uuid": "^8.3.2"
+  }
 }

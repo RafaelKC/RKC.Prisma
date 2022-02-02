@@ -1,0 +1,9 @@
+node_modules
+dist
+.idea
+.vscode
+__diff_output__
+cypress
+**/*.old
+**/*.json
+**/*.less
